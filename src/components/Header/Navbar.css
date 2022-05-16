@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Skranji&display=swap");
+
+nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.navbar-container {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.navbar-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #c54d2c;
+  font-family: "Skranji", cursive;
+}
+
+.navbar-logo i {
+  font-size: 1.8rem;
+}

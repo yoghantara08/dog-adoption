@@ -1,0 +1,11 @@
+.navbar-search {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-search i {
+  padding-right: 30px;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
